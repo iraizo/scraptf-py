@@ -1,0 +1,4 @@
+beautifulsoup4 == 4.8.2
+parsel == 1.5.2
+requests == 2.22.0
+selenium == 3.141.0
