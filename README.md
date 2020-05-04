@@ -1,8 +1,5 @@
-# scraptf-py
-SCRAP.TF raffle bot made in python
+# This is not being maintained
 
-## Instructions
-### 1. `git clone https://github.com/iraizo/scraptf-py/`
-### 2. `cd scraptf-py`
-### 3. `pip install -r requirements.txt`
-### 4. `python main.py`
+### Note to the admins:
+#### Calling me out for being a script kiddie but i could bypass your shit in under 5 minutes, nice try
+#### not gonna update it, this was only for learning purposes and not to actually use it.
